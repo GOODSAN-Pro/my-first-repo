@@ -9,7 +9,7 @@ Welcome to my GitHub project!
 
 ## 🧠 What I learned
 
-- How to clone a repo
+- `How to clone a repo`
 - How to edit files in VS Code
 - How to commit & push to GitHub
 
